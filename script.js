@@ -249,7 +249,7 @@ function renderLeaderboard(container) {
     container.innerHTML = `
         <h2>Доска почёта</h2>
         <div style="text-align: center;">
-            <img src="foto1.jpeg" alt="Парфенцев Илья" style="max-width: 300px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+            <img src="foto1.jpeg" style="max-width: 300px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
             <p><strong>Парфенцев Илья</strong></p>
         </div>
         <p>Участвуйте в мероприятиях, чтобы попасть сюда!</p>
